@@ -184,7 +184,7 @@ End-to-end EDA on real-world datasets — feature engineering, outlier detection
 ## Where I've worked
 
 ```
-Media Vidya Pvt Ltd  ·  AI Intern  ·  Pune (Remote)  ·  Current
+Media Vidya Pvt Ltd  ·  AI Intern  ·  Pune (Remote)  ·  
 ────────────────────────────────────────────────────────────────
 Building AI systems for news fact-checking and summarisation.
 Shipping NLP pipelines that process real regional content at scale.
