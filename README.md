@@ -222,11 +222,8 @@ Visual campaigns and brand consistency for university platforms.
 
 </div>
 
-<div align="center">
 
-<img src="https://ghchart.rshah.org/7c3aed/meghna120105" alt="Contribution Heatmap" width="92%"/>
 
-</div>
 
 
 
