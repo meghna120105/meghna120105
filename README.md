@@ -263,7 +263,7 @@ If you're building something interesting, I'd like to hear about it.
 
 [![GitHub](https://img.shields.io/badge/GitHub-meghna120105-181717?style=flat-square&logo=github)](https://github.com/meghna120105)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Meghna_Mishra-0A66C2?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/meghna-mishra-3065b62a1)
-[![Gmail](https://img.shields.io/badge/Email-meghnamishra590%40gmail.com-EA4335?style=flat-square&logo=gmail)](mailto:meghnamishra590@gmail.com)
+[![Gmail](https://img.shields.io/badge/Email-meghnamishra885%40gmail.com-EA4335?style=flat-square&logo=gmail)](mailto:meghnamishra885@gmail.com)
 [![WhatsApp](https://img.shields.io/badge/Phone-+91_8269460800-25D366?style=flat-square&logo=whatsapp)](tel:+918269460800)
 
 <br/>
